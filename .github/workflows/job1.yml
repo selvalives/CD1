@@ -19,4 +19,3 @@ jobs:
           username: braderse
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: public_html/cd1/
-	
